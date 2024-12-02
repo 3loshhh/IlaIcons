@@ -5,4 +5,4 @@
 
 
 ## License
-ilaIcons is available under [Apache-2.0 License](). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required. The only thing we ask is that these icons are not for sale.
+ilaIcons is available under [Apache-2.0 License](https://github.com/3loshhh/IlaIcons/blob/main/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required. The only thing we ask is that these icons are not for sale.
