@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   xml:space="preserve"
+   id="SVGRoot"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" />
+
+<style
+   type="text/css"
+   id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style>
+
+<g
+   id="layer1"><path
+     style="display:inline;fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none"
+     id="rect4"
+     width="24"
+     height="24"
+     x="0"
+     y="-24"
+     transform="scale(1,-1)"
+     d="M 0,-24 H 24 V 0 H 0 Z" /><path
+     id="path32"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="m 2,0.75 a 1.25,1.25 0 0 0 -0.8847656,0.3652344 1.25,1.25 0 0 0 0,1.7695312 L 21.115234,22.884766 a 1.25,1.25 0 0 0 1.769532,0 1.25,1.25 0 0 0 0,-1.769532 L 2.8847656,1.1152344 A 1.25,1.25 0 0 0 2,0.75 Z m 10,0 C 9.604131,0.75 7.4502077,1.8266306 5.9960938,3.5195312 L 7.7636719,5.2871094 C 8.7533718,4.0448561 10.276551,3.25 12,3.25 c 3.006356,4.4e-6 5.416016,2.40966 5.416016,5.4160156 v 6.2734374 l 4.171875,4.171875 c 0.122196,-0.151691 0.222713,-0.317861 0.294921,-0.492187 0.297202,-0.717493 0.16988,-1.668 -0.455078,-2.292969 L 19.916016,14.816406 V 8.6660156 C 19.916017,4.3085608 16.357455,0.75000644 12,0.75 Z M 4.3125,6.7890625 C 4.1647653,7.3915325 4.0839852,8.0193342 4.0839844,8.6660156 v 6.1503904 l -1.5175782,1.515625 c -0.6238312,0.623838 -0.7517583,1.572817 -0.4550781,2.289063 0.2966803,0.716245 1.0572184,1.294921 1.9394531,1.294922 H 7.5917969 C 8.1410495,21.83212 9.9163573,23.250008 12,23.25 c 2.083637,0 3.858952,-1.417885 4.408203,-3.333984 h 1.03125 l -2.5,-2.5 H 8.6660156 5.0175781 L 6.2167969,16.216797 C 6.4513363,15.982806 6.5834028,15.665285 6.5839844,15.333984 V 9.0605469 Z m 6.115234,13.1269535 h 3.144532 C 13.193434,20.398858 12.672773,20.75 12,20.75 c -0.672777,3e-6 -1.19343,-0.35114 -1.572266,-0.833984 z" /></g></svg>

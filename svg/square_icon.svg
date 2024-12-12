@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   xml:space="preserve"
+   id="SVGRoot"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1"><linearGradient
+     id="swatch52"><stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop52" /></linearGradient></defs>
+
+<style
+   type="text/css"
+   id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style>
+
+<g
+   id="layer1"><path
+     style="display:inline;fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none"
+     id="rect4"
+     width="24"
+     height="24"
+     x="0"
+     y="-24"
+     transform="scale(1,-1)"
+     d="M 0,-24 H 24 V 0 H 0 Z" /><path
+     id="path59"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     d="M 5.3339844,0.75 C 2.8174851,0.75 0.75,2.8174851 0.75,5.3339844 V 18.666016 C 0.75,21.182515 2.8174852,23.25 5.3339844,23.25 H 18.666016 C 21.182506,23.25 23.25,21.182506 23.25,18.666016 V 5.3339844 C 23.25,2.8174963 21.182504,0.7500003 18.666016,0.75 Z m 0,2.5 H 18.666016 C 19.831404,3.2500001 20.75,4.1685965 20.75,5.3339844 V 18.666016 C 20.75,19.831406 19.831406,20.75 18.666016,20.75 H 5.3339844 C 4.1685855,20.75 3.25,19.831414 3.25,18.666016 V 5.3339844 C 3.25,4.1685854 4.1685854,3.25 5.3339844,3.25 Z" /></g></svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   xml:space="preserve"
+   id="SVGRoot"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1"><linearGradient
+     id="swatch52"><stop
+       style="stop-color:#000000;stop-opacity:1;"
+       offset="0"
+       id="stop52" /></linearGradient></defs>
+
+<style
+   type="text/css"
+   id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style>
+
+<g
+   id="layer1"><path
+     style="display:inline;fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none"
+     id="rect4"
+     width="24"
+     height="24"
+     x="0"
+     y="-24"
+     transform="scale(1,-1)"
+     d="M 0,-24 H 24 V 0 H 0 Z" /><path
+     id="path60"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     d="M 12,0.75 C 5.8016029,0.74999919 0.7500005,5.8016029 0.75,12 0.75000031,18.198396 5.8016042,23.25 12,23.25 18.198398,23.25 23.25,18.198398 23.25,12 23.25,5.8016051 18.198395,0.74999994 12,0.75 Z m 0,2.5 c 4.847295,0 8.75,3.9027062 8.75,8.75 0,4.847297 -3.902703,8.75 -8.75,8.75 -4.8472956,0 -8.7499998,-3.902705 -8.75,-8.75 4e-7,-4.8472968 3.9027032,-8.7500006 8.75,-8.75 z" /></g></svg>
